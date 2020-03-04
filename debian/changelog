@@ -1,0 +1,5 @@
+eos-watermark-extension (3.8.0) eos; urgency=medium
+
+  * Initial release of the Watermark extension
+
+ -- Georges Basile Stavracas Neto <georges@endlessm.com>  Wed, 04 Mar 2020 18:09:00 -0300
